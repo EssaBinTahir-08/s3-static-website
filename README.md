@@ -1,4 +1,4 @@
-# S3 Assignment Project
+# AWS S3 Project
 
 This repository contains my AWS S3 assignment files.
 
